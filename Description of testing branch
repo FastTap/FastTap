@@ -1,3 +1,7 @@
 Testing branch is where anything to be tested or discussed should be pushed
 
 Only once agreed should a PR be used to move into master branch
+
+Exception is the UML material, which should be updated through the master branch
+
+as this is basically the way the project works
